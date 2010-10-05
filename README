@@ -1,0 +1,18 @@
+greyBox is a lightweight jQuery overlay plugin (aka lightbox) which is extensible and easily customizable.
+Based on http://jquery.com/demo/grey/
+
+Dependencies:
+jQuery fixedBox
+  http://www.hovinne.com/blog/index.php/2007/07/30/134-fixedbox-jquery-plugin
+  http://github.com/jfhovinne/fixedBox
+
+Usage:
+
+Opens a greyBox on click event:
+$('a').greyBox({ width: 760, height: 540 });
+
+Tested with jQuery 1.2.6
+
+Copyright (C) 2008-2010 Jean-François Hovinne - http://www.hovinne.com/
+Dual licensed under the MIT (MIT-license.txt)
+and GPL (GPL-license.txt) licenses.
